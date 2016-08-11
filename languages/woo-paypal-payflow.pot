@@ -1,0 +1,288 @@
+# Copyright (C) 2016 PayPal Pro Payflow for Woo
+# This file is distributed under the same license as the PayPal Pro Payflow for Woo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PayPal Pro Payflow for Woo 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-paypal-"
+"payflow\n"
+"POT-Creation-Date: 2016-08-11 05:04:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:6
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:7
+msgid "Enable PayPal Pro PayFlow"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:13
+msgid "Title"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:15
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:17
+#: includes/class-premium-pal-pro-payflow-gateway.php:22
+msgid "PayPal Pro PayFlow"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:20
+msgid "Description"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:22
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:24
+msgid "Pay with your credit card via PayPal Website Payments Pro PayFlow."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:27
+msgid "Soft Descriptor"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:29
+msgid ""
+"(Optional) Information that is usually displayed in the account holder's "
+"statement, for example your website name. Only 23 alphanumeric characters "
+"can be included, including the special characters dash (-) and dot (.) . "
+"Asterisks (*) and spaces ( ) are NOT permitted."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:34
+msgid "Test Mode"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:37
+msgid "Place the payment gateway in development mode."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:39
+msgid "Enable PayPal Sandbox/Test Mode"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:42
+#: includes/class-premium-pal-pro-payflow-common-function.php:71
+msgid "PayPal Vendor"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:44
+#: includes/class-premium-pal-pro-payflow-common-function.php:73
+msgid ""
+"Your merchant login ID that you created when you registered for the account."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:46
+#: includes/class-premium-pal-pro-payflow-common-function.php:75
+msgid ""
+"Create sandbox accounts and obtain API credentials from within your <a href="
+"\"http://developer.paypal.com\">PayPal developer account</a>."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:50
+#: includes/class-premium-pal-pro-payflow-common-function.php:79
+msgid "PayPal Password"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:52
+#: includes/class-premium-pal-pro-payflow-common-function.php:81
+msgid "The password that you defined while registering for the account."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:57
+#: includes/class-premium-pal-pro-payflow-common-function.php:86
+msgid "PayPal User"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:59
+#: includes/class-premium-pal-pro-payflow-common-function.php:88
+msgid ""
+"If you set up one or more additional users on the account, this value is the "
+"ID of the user authorized to process transactions. Otherwise, leave this "
+"field blank."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:64
+#: includes/class-premium-pal-pro-payflow-common-function.php:93
+msgid "PayPal Partner"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:66
+#: includes/class-premium-pal-pro-payflow-common-function.php:95
+msgid ""
+"The ID provided to you by the authorized PayPal Reseller who registered you "
+"for the Payflow SDK. If you purchased your account directly from PayPal, use "
+"PayPal or leave blank."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:100
+msgid "Invoice ID Prefix"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:102
+msgid ""
+"Add a prefix to the invoice ID sent to PayPal. This can resolve duplicate "
+"invoice problems when working with multiple websites on the same PayPal "
+"account."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:107
+msgid "Payment Action"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:109
+msgid ""
+"Choose whether you wish to capture funds immediately or authorize payment "
+"only."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:112
+msgid "Sale"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:113
+msgid "Authorization"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:117
+msgid "Debug Log"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-common-function.php:119
+msgid "Enable Log Pal Pro"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:23
+msgid ""
+"PayPal Pro PayFlow Edition works by adding credit card fields on the "
+"checkout and then sending the details to PayPal for verification."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:56
+msgid "Payment error"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:109
+msgid "NOTICE: SANDBOX (TEST) MODE ENABLED."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:111
+msgid ""
+"For testing purposes you can use the card number 4012 8888 8888 1881 with "
+"any CVC and a valid expiration date."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:131
+#: includes/class-premium-pal-pro-payflow-gateway.php:146
+msgid "Card expiration date is invalid"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:136
+msgid "Card security code is invalid (only digits are allowed)"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:150
+msgid "Card number is invalid"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:169
+#: includes/class-premium-pal-pro-payflow-gateway.php:171
+msgid ""
+"This order cannot be refunded due to an authorized only transaction.  Please "
+"use cancel instead."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:204
+#: includes/class-premium-pal-pro-payflow-gateway.php:228
+#: includes/class-premium-pal-pro-payflow-gateway.php:426
+msgid "There was a problem connecting to the payment gateway."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:208
+msgid "Refunded %s - PNREF: %s"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:232
+msgid "Empty Paypal response."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:238
+#: includes/class-premium-pal-pro-payflow-gateway.php:403
+msgid "Connection error:"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:371
+msgid ""
+"PayPal Pro (PayFlow) charge authorized (Charge ID: %s). Process order to "
+"take payment, or cancel to remove the pre-authorization."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:376
+msgid "PayPal Pro (Payflow) payment completed (PNREF: %s)"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:387
+msgid ""
+"The payment was flagged by a fraud filter. Please check your PayPal Manager "
+"account to review and accept or deny the payment and then mark this order "
+"\"processing\" or \"cancelled\"."
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:398
+msgid ""
+"PayPal Pro (Payflow) payment failed. Payment was rejected due to an error: "
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:399
+msgid "Payment error:"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:439
+msgid "Credit Card Number"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:443
+msgid "Expiry (MM/YY)"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:444
+msgid "MM / YY"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:447
+msgid "Card Security Code"
+msgstr ""
+
+#: includes/class-premium-pal-pro-payflow-gateway.php:448
+msgid "CVC"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PayPal Pro Payflow for Woo"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (PayPal Pro Payflow for Woo 1.0.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (PayPal Pro Payflow for Woo 1.0.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://localleadminer.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "wpremiumdev"
+msgstr ""
